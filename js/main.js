@@ -1,3 +1,4 @@
+'use strict'
 let fasadTop = document.querySelector('.fasadTop-choise'),
 	fasadDown = document.querySelector('.fasadDown-choise'),
 	stppanel = document.querySelector('.stppanel-choise');
